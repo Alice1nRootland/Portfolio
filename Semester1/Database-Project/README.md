@@ -58,7 +58,7 @@ This system solves these issues by centralizing all data in a relational databas
 - `erd.png`: Entity Relationship Diagram
 
 ## 📸 ERD Diagram
-![ERD Diagram](erd.png)
+![ERD Diagram](ERD.JPG)
 
 ## 🧪 How to Run
 1. Open [Oracle APEX](https://apex.oracle.com/)
