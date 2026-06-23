@@ -1,4 +1,4 @@
-# [cite_start]Network Security Infrastructure and Design (BAXZ2413) [cite: 6]
+# Network Security Infrastructure and Design (BAXZ2413) 
 
 This repository contains practical assignments and projects for the BAXZ2413 module, focusing on the deployment, configuration, and analysis of network defenses, centralized logging, and active threat monitoring.
 
