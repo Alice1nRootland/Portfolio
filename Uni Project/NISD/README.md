@@ -1,10 +1,10 @@
-# 🛡️ Portfolio: Network Security Infrastructure and Design (BAXZ2413)
+# Network Security Infrastructure and Design (BAXZ2413)
 
 This repository contains practical assignments and projects for the **BAXZ2413 - Network Security Infrastructure and Design** module, focusing on the deployment, configuration, and analysis of network defenses, centralized logging, and active threat monitoring.
 
 ---
 
-# 🛡️ Part 1: Layer 7 WAF Implementation (ByteBandit Shield)
+# Part 1: Layer 7 WAF Implementation (ByteBandit Shield)
 
 ByteBandit Shield is a cybersecurity project that demonstrates the deployment and configuration of a **Web Application Firewall (WAF)** to protect a vulnerable web application from common web-based attacks such as **Cross-Site Scripting (XSS)** and **SQL Injection (SQLi)**.
 
@@ -52,7 +52,7 @@ if ($args ~* "(union|select|insert|update|delete|drop|benchmark)") {
 
 ---
 
-# 🗼 Part 2: Centralized Security Watchtower Infrastructure
+# Part 2: Centralized Security Watchtower Infrastructure
 
 This group project implements a centralized security monitoring infrastructure designed to collect logs, centralize authentication, and detect threats across a multi-platform enterprise environment.
 
@@ -178,7 +178,7 @@ The solution demonstrates alignment with security monitoring requirements, inclu
 
 ---
 
-# 🎯 Learning Outcomes
+# Learning Outcomes
 
 Through these projects, the following cybersecurity concepts were demonstrated:
 
